@@ -9,6 +9,7 @@
     <com.rain.library.CustomProgressBar
         android:layout_width="150dp"
         android:layout_height="150dp"
+        app:sweepColor="#dd5566"
         android:layout_gravity="center" />
 
 </FrameLayout>
